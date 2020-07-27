@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>To delegate the update set picket role</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_465830_testupdat.glide.ui.update_set_picker.role</name>
+        <read_roles/>
+        <suffix>glide.ui.update_set_picker.role</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 07:11:04</sys_created_on>
+        <sys_id>b1ade07907821010f686fbbf7c1ed062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_testupdat.glide.ui.update_set_picker.role</sys_name>
+        <sys_package display_value="TestUpdateSet" source="x_465830_testupdat">c9cbbb21074a1010f686fbbf7c1ed054</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestUpdateSet">c9cbbb21074a1010f686fbbf7c1ed054</sys_scope>
+        <sys_update_name>sys_properties_b1ade07907821010f686fbbf7c1ed062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 07:11:04</sys_updated_on>
+        <type>string</type>
+        <value>delegated_developer</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=b1ade07907821010f686fbbf7c1ed062"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TestUpdateSet">c9cbbb21074a1010f686fbbf7c1ed054</application>
+        <file_path/>
+        <instance_id>b81286abdb0637c80ae3ac44d49619d9</instance_id>
+        <instance_name>dev88502</instance_name>
+        <name>sys_properties_b1ade07907821010f686fbbf7c1ed062</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>To delegate the update set picket role</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_465830_testupdat.glide.ui.update_set_picker.role</name><read_roles/><suffix>glide.ui.update_set_picker.role</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-17 07:11:04</sys_created_on><sys_id>b1ade07907821010f686fbbf7c1ed062</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_465830_testupdat.glide.ui.update_set_picker.role</sys_name><sys_package display_value="TestUpdateSet" source="x_465830_testupdat">c9cbbb21074a1010f686fbbf7c1ed054</sys_package><sys_policy/><sys_scope display_value="TestUpdateSet">c9cbbb21074a1010f686fbbf7c1ed054</sys_scope><sys_update_name>sys_properties_b1ade07907821010f686fbbf7c1ed062</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-17 07:11:04</sys_updated_on><type>string</type><value>delegated_developer</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=b1ade07907821010f686fbbf7c1ed062"/></record_update>]]></payload>
+        <payload_hash>-877678157</payload_hash>
+        <record_name>x_465830_testupdat.glide.ui.update_set_picker.role</record_name>
+        <reverted_from/>
+        <source>2e2048bd078a1010f686fbbf7c1ed0af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 07:11:06</sys_created_on>
+        <sys_id>a94fa4b907821010f686fbbf7c1ed0c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1735b9cc1bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 07:11:06</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>ed4fa4b9568210104260f5268413bac8</update_guid>
+        <update_guid_history>ed4fa4b9568210104260f5268413bac8:-877678157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 07:31:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>1c6ed5ffb45c478085f53fc356d88a90</sys_id>
+        <sys_metadata>b1ade07907821010f686fbbf7c1ed062</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_465830_testupdat.glide.ui.update_set_picker.role</sys_name>
+        <sys_package display_value="TestUpdateSet" source="x_465830_testupdat">c9cbbb21074a1010f686fbbf7c1ed054</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TestUpdateSet">c9cbbb21074a1010f686fbbf7c1ed054</sys_scope>
+        <sys_scope_delete display_value="">111824c3314e401484a676de2cdc19e1</sys_scope_delete>
+        <sys_update_name>sys_properties_b1ade07907821010f686fbbf7c1ed062</sys_update_name>
+        <sys_update_version display_value="sys_properties_b1ade07907821010f686fbbf7c1ed062">a94fa4b907821010f686fbbf7c1ed0c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 07:31:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
